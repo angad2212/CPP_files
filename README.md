@@ -1,4 +1,4 @@
-# C++ Programming basic questions
+# C++ Programming Basic Concepts
 Includes all the basic concepts of C++
 1) Basic of Classes
 2) Operators new and delete
